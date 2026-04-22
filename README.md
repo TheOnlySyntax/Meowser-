@@ -1,13 +1,7 @@
-
 # 🐱 Quanta Meowser — Amplified CC1101 Module for Flipper Zero
 
 <p align="center">
-  <img src="" alt="Quanta Meowser PCB" width="700"/>
-</p>
-
-<p align="center">
-  <img src="<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/1b8c8e6a-ecc5-4f11-bc2f-6ef160dc4422" />
-" alt="Quanta Meowser Logo" width="300"/>
+  <img src="https://github.com/user-attachments/assets/1b8c8e6a-ecc5-4f11-bc2f-6ef160dc4422" alt="Quanta Meowser Logo" width="300"/>
 </p>
 
 <p align="center">
@@ -73,15 +67,15 @@ This module was designed and developed by **Quante Labs** as a hobby/research pr
 | Dual MOSFET / Inverter | SN74AHC1G04DBVR | SOT-23-5 | Single inverter gate for PA/LNA control logic |
 | Protection Diode | SS14 | SOD-123 | Schottky diode for reverse polarity protection |
 | Antenna Connector | SMA Female | Through-hole | 50Ω SMA connector for external antenna |
+| GPIO Header Pins | — | 2.54mm SMD | SMD pin header on the bottom side for Flipper Zero GPIO connection |
 
 ---
 
 ## 🗺️ Board Layout
 
-<img width="1710" height="920" alt="image" src="https://github.com/user-attachments/assets/e55361dd-830b-48d3-89c1-32c62cf6df27" />
-
-
-> See the labeled image at the top of this README for exact component positions.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e55361dd-830b-48d3-89c1-32c62cf6df27" alt="Quanta Meowser Board Layout" width="700"/>
+</p>
 
 ---
 
