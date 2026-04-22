@@ -77,17 +77,8 @@ This module was designed and developed by **Quante Labs** as a hobby/research pr
 ## 🗺️ Board Layout
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│  [SMA Antenna]  [LM1117]  [Cap×2]         [PA area]      │
-│                                                          │
-│         ┌──────────────────────────────┐   [LED PA]      │
-│         │                              │   [Res 2k]      │
-│         │    E07-433M20S (CC1101)      │                 │
-│         │      Ebyte RF Module         │   [LED LNA]     │
-│         │                              │   [Res 2k]      │
-│         └──────────────────────────────┘                 │
-│  [Power LED]  [Res for LED]     [MOSFET] [Diode SS14]    │
-└──────────────────────────────────────────────────────────┘
+<img width="1710" height="920" alt="image" src="https://github.com/user-attachments/assets/e55361dd-830b-48d3-89c1-32c62cf6df27" />
+
 ```
 
 > See the labeled image at the top of this README for exact component positions.
