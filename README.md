@@ -76,10 +76,8 @@ This module was designed and developed by **Quante Labs** as a hobby/research pr
 
 ## 🗺️ Board Layout
 
-```
 <img width="1710" height="920" alt="image" src="https://github.com/user-attachments/assets/e55361dd-830b-48d3-89c1-32c62cf6df27" />
 
-```
 
 > See the labeled image at the top of this README for exact component positions.
 
