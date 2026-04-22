@@ -2,11 +2,12 @@
 # 🐱 Quanta Meowser — Amplified CC1101 Module for Flipper Zero
 
 <p align="center">
-  <img src="docs/board_labeled.png" alt="Quanta Meowser PCB" width="700"/>
+  <img src="" alt="Quanta Meowser PCB" width="700"/>
 </p>
 
 <p align="center">
-  <img src="docs/logo.png" alt="Quanta Meowser Logo" width="300"/>
+  <img src="<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/1b8c8e6a-ecc5-4f11-bc2f-6ef160dc4422" />
+" alt="Quanta Meowser Logo" width="300"/>
 </p>
 
 <p align="center">
